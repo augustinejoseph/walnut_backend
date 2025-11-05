@@ -28,18 +28,3 @@ Returns the current server status.
   "current_time": "2025-11-05T10:30:00Z"
 }
 ```
-
-
-### 1. 
-**GET /** 
-
-Returns the current server status.
-
-**Response:**
-```json
-{
-  "status": "HEALTHY",
-  "current_time": "2025-11-05T10:30:00Z"
-}
-
-```
