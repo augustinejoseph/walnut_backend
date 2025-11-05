@@ -1,0 +1,9 @@
+asgiref==3.10.0
+Django==5.2.8
+djangorestframework==3.16.1
+sqlparse==0.5.3
+psycopg2-binary
+celery[redis]
+django-celery-results
+gunicorn
+python-dotenv
